@@ -15,7 +15,8 @@ At first, the buttons appears but was not fuctionable. But by using partial from
 
 ## ☞𝗧𝗵𝗲 𝗢𝘂𝘁𝗽𝘂𝘁
 
-Epiz-nn-Calculator-output This will be the ouput if you run our code.
+<a href="https://ibb.co/1K4k3Ls"><img src="https://i.ibb.co/NpGMXs1/IMG-20210706-143702-820.jpg" alt="IMG-20210706-143702-820" border="0"></a>
+ This will be the ouput if you run our code.
 
 
 ## ☞𝗢𝘂𝗿 𝗧𝗲𝗿𝗺𝘀 𝗮𝗻𝗱 𝗖𝗼𝗻𝗱𝗶𝘁𝗶𝗼𝗻𝘀
