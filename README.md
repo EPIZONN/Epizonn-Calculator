@@ -1,3 +1,6 @@
+
+#Epizónn Calculator
+
 This calculator is our final project in our Object Oriented Programming course.
 
 
