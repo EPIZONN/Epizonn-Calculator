@@ -1,4 +1,4 @@
-# Epizonn-Calculator 
+# Ktinker as UI
 
 User interface (UI) design is the process designers use to build interfaces in software or computerized devices, focusing on looks or style. We aim to create interfaces which users find easy to use and pleasurable.
 
